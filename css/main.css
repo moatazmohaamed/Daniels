@@ -99,7 +99,7 @@ header .header_caption .social_icons i {
     position: absolute;
     z-index: 1;
     width: 79%;
-    background-image: url(/assets/imgs/dots.png);
+    background-image: url(../assets/imgs/dots.png);
     height: 73%;
     top: 28%;
     left: -2%;
@@ -142,7 +142,7 @@ header .header_caption .social_icons i {
     position: absolute;
     z-index: -1;
     width: 100%;
-    background: url(/assets/imgs/dots.png) repeat;
+    background: url(../assets/imgs/dots.png) repeat;
     background-position: center;
     height: 2.3rem;
     top: 10px;
